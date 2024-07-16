@@ -1,5 +1,5 @@
 
-import { baseUrl ,repositoriesQuantity } from "/src/scripts/variables.js"
+import { baseUrl ,repositoriesQuantity } from "../variables.js"
 
 
 
